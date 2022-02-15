@@ -1,0 +1,1 @@
+# education_type_template
